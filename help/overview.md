@@ -1,12 +1,12 @@
 ---
-title: Tutoriais de orquestração de jornada - Visão geral
-description: O Journey Orchestration permite que você crie orquestrações em tempo real usando casos que aproveitam dados contextuais armazenados em eventos ou fontes de dados
+title: Journey Orchestration Tutorials - Visão geral
+description: O Journey Orchestration permite que você crie casos de uso de orquestração em tempo real aproveitando dados contextuais armazenados em eventos ou fontes de dados
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: d8a3de100c1b0607abf16e59dba8a5783f6097fc
+source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 1%
+source-wordcount: '245'
+ht-degree: 2%
 
 ---
 
@@ -17,8 +17,10 @@ ht-degree: 1%
 
 ## Novidades
 
-* **[Como encontrar ajuda com a Journey Orchestration](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
-   *Entenda onde você pode encontrar rapidamente respostas para suas perguntas, como entrar em contato com o suporte e onde registrar os tíquetes de suporte, bem como como como você pode nos fornecer feedback.[!UICONTROL Journey Orchestration]*
+* **[eventos da etapa de viagem do Relatórios para Adobe Experience Platform](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
+   *Saiba quais são os eventos de etapa de jornada e quais etapas de dados são criadas automaticamente no Experience Platform e como explorá-los.*
+* **[Uso de eventos de qualificação de segmento](help/using-segment-qualification-events.md)**   <br>
+   *Este vídeo fornece uma breve introdução sobre como criar uma jornada com um evento de qualificação de segmento como ponto de entrada ou saída.*
 
 ## Escolhas do pessoal
 
@@ -26,15 +28,15 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="./understanding-journey-orchestration.md">
-      <img alt="Noções Gerais da Orquestração de Jornadas" src="./assets/journey-orchestration-example.png"/>
+      <img alt="Noções básicas sobre o Journey Orchestration" src="./assets/journey-orchestration-example.png"/>
     </a>
     <div>
       <a href="./understanding-journey-orchestration.md">
-    <strong>Noções Gerais da Orquestração de Jornadas</strong>
+    <strong>Noções básicas sobre o Journey Orchestration</strong>
     </a>
     </div>
     <p>
-    <em>Entenda o conceito de Orquestração de Jornadas, os tipos de casos de uso que ele permite e os elementos-chave de como a Orquestração de Jornadas funciona.</em>
+    <em>Entenda o conceito de Journey Orchestration, os tipos de casos de uso que ele permite e os elementos-chave de como o Journey Orchestration funciona.</em>
     <p>
   </td>
   <td>
@@ -68,6 +70,6 @@ ht-degree: 1%
 
 ## Recursos adicionais
 
-* [Centro de Ajuda do Journey Orchestration](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
-* [Tutoriais da plataforma Adobe Experience](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Centro de ajuda do Journey Orchestration](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
+* [Tutorials Adobe Experience Platform](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
 
