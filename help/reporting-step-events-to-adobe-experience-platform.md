@@ -1,6 +1,6 @@
 ---
-title: 'eventos de passo de viagem do Relatórios para Adobe Experience Platform '
-description: Este tutorial explica como navegar até o relatórios para sua jornada, como personalizar intervalos de datas para seu relatório e como salvar um modelo de relatórios para uso futuro.
+title: 'eventos da etapa de viagem do Relatórios para Adobe Experience Platform '
+description: O vídeo a seguir explica quais são os eventos de etapas de viagem e quais etapas de dados são automaticamente criadas no Experience Platform e como explorá-los.
 feature: Journey Orchestration
 topics: Introduction
 kt: 5488
@@ -9,10 +9,10 @@ audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: 3d8621e0bdda1aa6b9a576fca07aacebd1ad46d5
+source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 1%
+source-wordcount: '99'
+ht-degree: 6%
 
 ---
 
@@ -27,4 +27,4 @@ O vídeo a seguir explica o que [!UICONTROL journey step events] são e quais [!
 ## Recursos adicionais
 
 * [Centro](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)de ajuda do Journey Orchestration:
-* [Visão geral do compartilhamento de etapas de jornada](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html)
+* [Visão geral do compartilhamento de etapas da jornada](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html)
