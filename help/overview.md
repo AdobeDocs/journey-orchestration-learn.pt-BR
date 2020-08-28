@@ -6,7 +6,7 @@ translation-type: tm+mt
 source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à 
 * **[Informar eventos de etapas da jornada à Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)**
 
    <br>
-   *Saiba quais são os eventos de etapa de jornada e quais etapas de dados são criadas automaticamente no Experience Platform e como explorá-los.*
+   *Saiba quais são os eventos de etapa de jornada, quais etapas de dados são criadas automaticamente na Experience Platform e como analisá-las.*
 * **[Uso de eventos de qualificação de segmento](/help/using-segment-qualification-events.md)**
 
    <br>
