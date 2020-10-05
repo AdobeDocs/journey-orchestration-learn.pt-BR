@@ -75,5 +75,5 @@ O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à 
 ## Recursos adicionais
 
 * [Centro de ajuda do Journey Orchestration](https://docs.adobe.com/content/help/pt-BR/journeys/using/journey-orchestration-home.html)
-* [Tutoriais da Adobe Experience Platform](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Tutoriais da Adobe Experience Platform](https://docs.adobe.com/content/help/pt-BR/platform-learn/tutorials/overview.html)
 
