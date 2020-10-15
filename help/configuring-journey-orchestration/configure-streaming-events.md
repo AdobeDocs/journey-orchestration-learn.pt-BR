@@ -1,6 +1,6 @@
 ---
-title: Configurar eventos de transmissão para o Adobe Journey Orchestration
-description: Este vídeo explica como configurar schemas XDM e conjuntos de dados para eventos Journey Orchestration, definir um evento no Journey Orchestration e configurar sistemas de origem para transmitir eventos
+title: Configure eventos de transmissão para Adobe Journey Orchestration
+description: Este vídeo explica como configurar esquemas XDM e conjuntos de dados para eventos do Journey Orchestration, definir um evento no Journey Orchestration e configurar sistemas de origem para transmitir eventos
 feature: Journey Orchestration
 topics: Events
 kt: 3731
@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 1%
+ht-degree: 36%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 1%
 * As ações diretas de uma pessoa (por exemplo, eles compraram um produto, visitaram uma loja ou abandonaram um carrinho de compras online), ou
 * Algo que aconteceu e que está conectado ao indivíduo (por exemplo, já que ele atingiu 10.000 pontos de fidelidade)
 
-[!UICONTROL Journey Orchestration] São eventos [!UICONTROL XDM experience events] que são enviados para a Adobe Experience Platform via [!UICONTROL streaming ingestion].
+[!UICONTROL Journey Orchestration] eventos enviados para a Adobe Experience Platform via [!UICONTROL XDM experience events] [!UICONTROL streaming ingestion].
 
 >[!NOTE]
 >
@@ -35,10 +35,10 @@ ht-degree: 1%
 >* [Ingestão de dados de fluxo](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
 >
-Para entender os exemplos usados no vídeo, você também deve se familiarizar com os seguintes serviços de Adobe Experience Platform:
+Para entender os exemplos usados no vídeo, você também deve se familiarizar com os seguintes serviços da Adobe Experience Platform:
 >
 >* [Adobe Experience Platform Mobile SDK - Iniciar](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
->* [Serviço de localização de Adobe Experience Platform](https://docs.adobe.com/content/help/en/places/using/home.html)
+>* [Serviço de localização da Adobe Experience Platform](https://docs.adobe.com/content/help/pt-BR/places/using/home.html)
 
 
 ## How to configure [!UICONTROL streaming events]
@@ -53,5 +53,5 @@ O vídeo a seguir explica como:
 
 ## Recursos adicionais
 
-* [Centro](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)de ajuda do Journey Orchestration:
+* [Central de ajuda do Journey Orchestration](https://docs.adobe.com/content/help/pt-BR/journeys/using/journey-orchestration-home.html):
    * [Sobre eventos](https://docs.adobe.com/content/help/en/journeys/using/events-journeys/about-events.html)
