@@ -2,9 +2,9 @@
 title: Tutoriais do Journey Orchestration - Visão geral
 description: O Journey Orchestration permite criar casos de uso de orquestração em tempo real aproveitando dados contextuais armazenados em eventos ou fontes de dados
 products: Journey orchestration
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 100%
 
