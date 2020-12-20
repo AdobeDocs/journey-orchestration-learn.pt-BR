@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 56b3abb5d3a69a516d45eb889932c6036ce54798
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 6%
+ht-degree: 26%
 
 ---
 
@@ -23,13 +23,13 @@ Você pode testar sua jornada antes da publicação, usando perfis de teste. Iss
 
 O vídeo a seguir explica como:
 
-* Ativar e usar **[!UICONTROL test mode]** para validar uma jornada
+* Habilitar e usar **[!UICONTROL test mode]** para validar uma jornada
 * Publique uma jornada e gerencie seu status
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12)
 
 ## Recursos adicionais
 
-* [Centro](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)de ajuda do Journey Orchestration:
+* [Central de ajuda do Journey Orchestration](https://docs.adobe.com/content/help/pt-BR/journeys/using/journey-orchestration-home.html):
    * [Testar a jornada](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/journeytesting.html)
    * [Publicar a jornada](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/journeypublication.html)
