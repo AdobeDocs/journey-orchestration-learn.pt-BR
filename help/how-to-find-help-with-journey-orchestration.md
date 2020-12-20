@@ -8,9 +8,9 @@ thumbnail: 32010.jpg
 audience: developer, business user, admin
 doc-type: video
 activity: understand
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 56b3abb5d3a69a516d45eb889932c6036ce54798
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Este vídeo explica onde você pode rapidamente obter respostas para suas perguntas sobre o [!UICONTROL Journey Orchestration], como entrar em contato com o suporte e onde registrar os tíquetes de suporte, bem como saber como fornecer feedback.
 
->[!VIDEO](https://video.tv.adobe.com/v/32010?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/32010?quality=12)
