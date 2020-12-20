@@ -8,9 +8,9 @@ thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ Estes são alguns exemplos:
 
 Este vídeo fornece uma breve introdução sobre onde configurar segmentos e como configurar um evento de qualificação de segmento em uma jornada.
 
->[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12)
 
 ## Recursos adicionais
 
