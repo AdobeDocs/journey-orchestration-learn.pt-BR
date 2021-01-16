@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/pt-BR/journey-orchestration-l
 getting-started-title: Central de ajuda
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/journeys/using/journey-orchestration-home.html
 translation-type: tm+mt
-source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
+source-git-commit: 2af08154744d0ae8b9107b2abf3fe2bdcae73ac5
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 95%
+ht-degree: 92%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 95%
 + [Uso de eventos de qualificação de segmento](/help/using-segment-qualification-events.md)
 + [Configurar fontes de dados](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [Configurar ações](/help/configuring-journey-orchestration/configure-actions.md)
-+ Construir uma jornada {#building-a-journey}
++ Criar uma jornada {#building-a-journey}
    + [Criar uma jornada](/help/building-a-journey/creating-a-journey.md)
    + [Saltando para outra jornada](/help/building-a-journey/jumping-to-another-journey.md)
 + [Validar e publicar uma jornada](/help/validate-and-publish-a-journey.md)
