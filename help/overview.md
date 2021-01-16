@@ -3,10 +3,10 @@ title: Tutoriais do Journey Orchestration - Visão geral
 description: O Journey Orchestration permite criar casos de uso de orquestração em tempo real aproveitando dados contextuais armazenados em eventos ou fontes de dados
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
+source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 100%
+source-wordcount: '203'
+ht-degree: 93%
 
 ---
 
@@ -17,14 +17,10 @@ O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à 
 
 ## Novidades
 
-* **[Informar eventos de etapas da jornada à Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)**
+* **[Saltando para outra jornada](/help/building-a-journey/jumping-to-another-journey.md)**
 
    <br>
-   *Saiba quais são os eventos de etapa de jornada, quais etapas de dados são criadas automaticamente na Experience Platform e como analisá-las.*
-* **[Uso de eventos de qualificação de segmento](/help/using-segment-qualification-events.md)**
-
-   <br>
-   *Este vídeo fornece uma breve introdução sobre como criar uma jornada com um evento de qualificação de segmento como ponto de entrada ou saída.*
+   *Saiba como empurrar indivíduos de uma jornada para outra.*
 
 ## Escolhas de pessoal
 
