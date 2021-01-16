@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/pt-BR/journey-orchestration-l
 getting-started-title: Central de ajuda
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/journeys/using/journey-orchestration-home.html
 translation-type: tm+mt
-source-git-commit: a8d066e15a4ab664b86a1bc8975b1b3f6414bf90
+source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '97'
+ht-degree: 95%
 
 ---
 
@@ -26,7 +26,9 @@ ht-degree: 100%
 + [Uso de eventos de qualificação de segmento](/help/using-segment-qualification-events.md)
 + [Configurar fontes de dados](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [Configurar ações](/help/configuring-journey-orchestration/configure-actions.md)
-+ [Criar uma jornada](/help/create-a-journey.md)
++ Construir uma jornada {#building-a-journey}
+   + [Criar uma jornada](/help/building-a-journey/creating-a-journey.md)
+   + [Saltando para outra jornada](/help/building-a-journey/jumping-to-another-journey.md)
 + [Validar e publicar uma jornada](/help/validate-and-publish-a-journey.md)
 + [Analisar uma jornada através das ferramentas de relatórios](/help/analyze-a-journey-via-reporting-tools.md)
 + [Informar eventos de etapas da jornada à Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
