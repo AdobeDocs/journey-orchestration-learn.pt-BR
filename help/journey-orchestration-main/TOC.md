@@ -9,11 +9,11 @@ tutorials-title: Tutoriais
 tutorials-url: https://docs.adobe.com/content/help/pt-BR/journey-orchestration-learn/tutorials/overview.html
 getting-started-title: Central de ajuda
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/journeys/using/journey-orchestration-home.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2af08154744d0ae8b9107b2abf3fe2bdcae73ac5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 92%
 + [Configurar ações](/help/configuring-journey-orchestration/configure-actions.md)
 + Criar uma jornada {#building-a-journey}
    + [Criar uma jornada](/help/building-a-journey/creating-a-journey.md)
-   + [Saltando para outra jornada](/help/building-a-journey/jumping-to-another-journey.md)
+   + [Mudar para outra jornada](/help/building-a-journey/jumping-to-another-journey.md)
 + [Validar e publicar uma jornada](/help/validate-and-publish-a-journey.md)
 + [Analisar uma jornada através das ferramentas de relatórios](/help/analyze-a-journey-via-reporting-tools.md)
 + [Informar eventos de etapas da jornada à Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
