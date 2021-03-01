@@ -11,7 +11,7 @@ activity: setup
 translation-type: tm+mt
 source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '255'
 ht-degree: 36%
 
 ---
@@ -30,14 +30,14 @@ ht-degree: 36%
 >
 >Você precisará estar familiarizado com:
 >
->* [O Modelo de dados de experiência (XDM)](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
->* [Como compor Schemas XDM para Eventos de experiência](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
+>* [O Modelo de dados de experiência (XDM)](https://docs.adobe.com/content/help/pt-BR/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
+>* [Como compor Schemas XDM para Eventos de experiência](https://docs.adobe.com/content/help/pt-BR/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
 >* [Ingestão de dados de fluxo](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
 >
 Para entender os exemplos usados no vídeo, você também deve se familiarizar com os seguintes serviços da Adobe Experience Platform:
 >
->* [Adobe Experience Platform Mobile SDK - Iniciar](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
+>* [Adobe Experience Platform Mobile SDK - Iniciar](https://docs.adobe.com/content/help/pt-BR/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 >* [Serviço de localização da Adobe Experience Platform](https://docs.adobe.com/content/help/pt-BR/places/using/home.html)
 
 
