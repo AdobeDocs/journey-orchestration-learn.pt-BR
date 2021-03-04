@@ -1,7 +1,7 @@
 ---
 title: Mudar de uma jornada para outra
 description: 'Saiba como conduzir indivíduos de uma jornada para outra. '
-feature: Journey Orchestration
+feature: Jornadas
 topics: activity
 kt: 6695
 thumbnail: 330560.jpg
@@ -9,11 +9,12 @@ audience: user
 doc-type: video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
-workflow-type: ht
-source-wordcount: '79'
-ht-degree: 100%
+role: Profissional de negócios, Administrador
+translation-type: tm+mt
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+workflow-type: tm+mt
+source-wordcount: '83'
+ht-degree: 95%
 
 ---
 
@@ -27,7 +28,7 @@ A atividade de ação Saltar permite:
 * Simplificar o design de jornadas muito complexas dividindo-as em várias jornadas
 * Criar jornadas com base em padrões de jornada comuns e reutilizáveis
 
->[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12)
 
 ## Recursos adicionais
 
