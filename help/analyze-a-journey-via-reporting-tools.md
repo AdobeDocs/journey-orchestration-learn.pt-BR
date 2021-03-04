@@ -1,18 +1,19 @@
 ---
 title: Analisar uma jornada através das ferramentas de relatório
-description: Este tutorial explica como navegar até os relatórios da sua jornada, personalizar intervalos de datas no relatório e salvar um modelo de relatórios para utilização futura.
-feature: Journey Orchestration
+description: '"Saiba como acessar os relatórios da sua jornada, personalizar intervalos de datas para seu relatório e salvar um modelo de relatório para futura utilização."'
+feature: Relatórios
 topics: Introduction
 kt: 2777
 thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
+role: Profissional de negócios, Administrador
 translation-type: tm+mt
-source-git-commit: eff94dd57d933976c0fd0a303696a54048e4ddc0
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 100%
+source-wordcount: '96'
+ht-degree: 96%
 
 ---
 
