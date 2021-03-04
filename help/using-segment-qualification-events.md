@@ -1,18 +1,19 @@
 ---
 title: Uso de eventos de qualificação de segmento
-description: Este vídeo fornece uma breve introdução sobre onde configurar segmentos e como configurar um evento de qualificação de segmento em uma jornada.
-feature: Journey Orchestration
+description: Saiba onde configurar segmentos e como configurar um evento de qualificação de segmento em uma jornada.
+feature: Segmentos, eventos
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
+role: Profissional de negócios, Administrador
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 100%
+source-wordcount: '137'
+ht-degree: 84%
 
 ---
 
