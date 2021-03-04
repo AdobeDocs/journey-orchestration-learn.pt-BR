@@ -1,18 +1,19 @@
 ---
 title: Criar uma jornada com o Adobe Journey Orchestration
-description: O vídeo a seguir explica como criar uma nova jornada, iniciar um evento, usar controles de orquestrações para controlar o fluxo e o tempo de uma jornada e usar ações para participar de pontos da jornada.
-feature: Journey Orchestration
+description: '"Saiba como criar uma nova jornada, iniciar um evento, usar controles de orquestrações para controlar o fluxo e o tempo de uma jornada e usar Ações para participar de pontos da jornada."'
+feature: Jornadas
 topics: Create a journey
 kt: 2789
 thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: ht
-source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
-workflow-type: ht
+role: Profissional de negócios, Administrador
+translation-type: tm+mt
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 100%
+ht-degree: 66%
 
 ---
 
@@ -25,7 +26,7 @@ O vídeo a seguir explica como:
 * Usar controles do [!UICONTROL Orchestration] para controlar o fluxo e o tempo de uma jornada
 * Use ações para participar de pontos da jornada.
 
->[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
 
 ## Recursos adicionais
 
