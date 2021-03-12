@@ -1,5 +1,5 @@
 ---
-title: Configurar eventos de transmissão para o Adobe Journey Orchestration
+title: Configurar eventos de transmissão para Adobe Journey Orchestration
 description: '"Saiba como configurar esquemas XDM e conjuntos de dados para eventos do Journey Orchestration, definir um evento no Journey Orchestration e configurar sistemas de origem para transmitir eventos"'
 feature: Fontes de dados, eventos, esquemas
 topics: Events
@@ -25,7 +25,7 @@ ht-degree: 25%
 * As ações diretas de um indivíduo (por exemplo, ele comprou um produto, visitou uma loja ou abandonou um carrinho de compras online) ou
 * Algo que aconteceu e que está conectado ao indivíduo (por exemplo, como atingiu 10.000 pontos de fidelidade)
 
-[!UICONTROL Journey Orchestration] são  [!UICONTROL XDM experience events] enviados para a Adobe Experience Platform por meio de  [!UICONTROL streaming ingestion].
+[!UICONTROL Journey Orchestration] são  [!UICONTROL XDM experience events] enviados para a Adobe Experience Platform via  [!UICONTROL streaming ingestion].
 
 >[!NOTE]
 >
