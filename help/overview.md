@@ -4,10 +4,10 @@ description: O Journey Orchestration permite criar casos de uso de orquestraçã
 products: Journey orchestration
 role: Profissional de negócios, Administrador
 translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 98%
+source-wordcount: '209'
+ht-degree: 97%
 
 ---
 
@@ -18,8 +18,8 @@ O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à 
 
 ## Novidades
 
+* **[Atualizar ação do perfil](/help/building-a-journey/update-profile-action.md)**
 * **[Mudar para outra jornada](/help/building-a-journey/jumping-to-another-journey.md)**
-
    <br>
    *Saiba como conduzir indivíduos de uma jornada para outra.*
 
