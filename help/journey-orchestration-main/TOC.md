@@ -11,10 +11,10 @@ getting-started-title: Central de ajuda
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/journeys/using/journey-orchestration-home.html
 level: Iniciante
 translation-type: tm+mt
-source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
+source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 98%
+source-wordcount: '101'
+ht-degree: 96%
 
 ---
 
@@ -30,6 +30,7 @@ ht-degree: 98%
 + Criar uma jornada {#building-a-journey}
    + [Criar uma jornada](/help/building-a-journey/creating-a-journey.md)
    + [Mudar para outra jornada](/help/building-a-journey/jumping-to-another-journey.md)
+   + [Atualizar ação do perfil](/help/building-a-journey/update-profile-action.md)
 + [Validar e publicar uma jornada](/help/validate-and-publish-a-journey.md)
 + [Analisar uma jornada através das ferramentas de relatórios](/help/analyze-a-journey-via-reporting-tools.md)
 + [Informar eventos de etapas da jornada à Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
