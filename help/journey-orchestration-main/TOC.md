@@ -10,11 +10,11 @@ tutorials-url: https://docs.adobe.com/content/help/pt-BR/journey-orchestration-l
 getting-started-title: Central de ajuda
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/journeys/using/journey-orchestration-home.html
 level: Iniciante
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
