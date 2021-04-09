@@ -3,14 +3,14 @@ title: Tutoriais do Journey Orchestration - Visão geral
 description: O Journey Orchestration permite criar casos de uso de orquestração em tempo real aproveitando dados contextuais armazenados em eventos ou fontes de dados
 products: Journey orchestration
 role: Profissional de negócios, Administrador
-translation-type: tm+mt
-source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
-workflow-type: tm+mt
+exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
+translation-type: ht
+source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
+workflow-type: ht
 source-wordcount: '209'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
-
 
 # Visão geral
 
@@ -73,4 +73,3 @@ O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à 
 
 * [Centro de ajuda do Journey Orchestration](https://docs.adobe.com/content/help/pt-BR/journeys/using/journey-orchestration-home.html)
 * [Tutoriais da Adobe Experience Platform](https://docs.adobe.com/content/help/pt-BR/platform-learn/tutorials/overview.html)
-
