@@ -1,14 +1,14 @@
 ---
 title: 'Informar eventos de etapas da jornada à Adobe Experience Platform '
 description: Entenda quais são os eventos de etapa da jornada, quais etapas de dados e como explorá-los.
-feature: Jornadas
+feature: Journeys
 topics: Introduction
 kt: 5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
-role: Profissional de negócios, Administrador
+role: Business Practitioner, Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt

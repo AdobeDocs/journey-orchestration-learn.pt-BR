@@ -1,14 +1,14 @@
 ---
 title: Analisar uma jornada através das ferramentas de relatório
 description: '"Saiba como acessar os relatórios da sua jornada, personalizar intervalos de datas para seu relatório e salvar um modelo de relatório para futura utilização."'
-feature: Relatórios
+feature: Reports
 topics: Introduction
 kt: 2777
 thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
-role: Profissional de negócios, Administrador
+role: Business Practitioner, Administrator
 exl-id: f6f13fba-d815-424f-86e5-918577609882
 translation-type: ht
 source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829

@@ -1,14 +1,14 @@
 ---
 title: Configurar eventos de transmissão para Adobe Journey Orchestration
 description: '"Saiba como configurar esquemas XDM e conjuntos de dados para eventos do Journey Orchestration, definir um evento no Journey Orchestration e configurar sistemas de origem para transmitir eventos"'
-feature: Fontes de dados, eventos, esquemas
+feature: Data Sources, Events, Schemas
 topics: Events
 kt: 3731
 thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Administrador
+role: Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt

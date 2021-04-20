@@ -1,14 +1,14 @@
 ---
 title: Conheça o Journey Orchestration
 description: '"Entenda o conceito do Journey Orchestration, os tipos de casos de uso que ele permite e os elementos-chave do seu funcionamento."'
-feature: Visão geral
+feature: Overview
 topics: Introduction
 kt: 2773
 thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-role: Profissional de negócios, Administrador
+role: Business Practitioner, Administrator
 translation-type: ht
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: ht
