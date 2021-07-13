@@ -2,12 +2,11 @@
 title: Tutoriais do Journey Orchestration - Visão geral
 description: O Journey Orchestration permite criar casos de uso de orquestração em tempo real aproveitando dados contextuais armazenados em eventos ou fontes de dados
 products: Journey orchestration
-role: Business Practitioner, Administrator
+role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-translation-type: ht
-source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
-workflow-type: ht
-source-wordcount: '209'
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+workflow-type: tm+mt
+source-wordcount: '206'
 ht-degree: 100%
 
 ---
@@ -37,7 +36,7 @@ O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à 
     </a>
     </div>
     <p>
-    <em>Entenda o conceito do Journey Orchestration, os tipos de utilização que ele permite e os elementos-chave do seu funcionamento.</em>
+    <em>Entenda o conceito do Journey Orchestration, os tipos de casos de uso que ele permite e os elementos-chave de como o ele funciona.</em>
     <p>
   </td>
   <td>
