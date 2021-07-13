@@ -1,22 +1,21 @@
 ---
-title: Validar e publicar uma jornada
+title: Validar e publicar uma Jornada
 description: '"Saiba como testar sua jornada antes da publicação, usando perfis de teste. "'
-feature: Journeys
+feature: Jornadas
 topics: Test and publish a journey
 kt: 2778
 thumbnail: 30066.jpg
 audience: user
 doc-type: video
 activity: use
-role: Business Practitioner, Administrator
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+role: User, Admin
+exl-id: 63d89150-7c1e-4869-9c8d-0371e0c82ee1
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 28%
+source-wordcount: '109'
+ht-degree: 30%
 
 ---
-
 
 # Validar e publicar uma jornada
 
