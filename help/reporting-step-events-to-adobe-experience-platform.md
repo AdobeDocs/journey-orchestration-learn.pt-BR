@@ -1,22 +1,21 @@
 ---
-title: 'Informar eventos de etapas da jornada à Adobe Experience Platform '
-description: Entenda quais são os eventos de etapa da jornada, quais etapas de dados e como explorá-los.
-feature: Journeys
+title: 'Eventos de etapa da jornada dos relatórios para Adobe Experience Platform '
+description: Entenda quais são os eventos de etapa da jornada e quais etapas de dados e como explorá-los.
+feature: Jornadas
 topics: Introduction
 kt: 5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
-role: Business Practitioner, Administrator
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+role: User, Admin
+exl-id: 1ce7909e-173b-46f4-b20c-e6b5bfcb9d2c
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 78%
+source-wordcount: '92'
+ht-degree: 82%
 
 ---
-
 
 # Reportar eventos da etapa para [!UICONTROL Adobe Experience Platform ]
 
