@@ -1,22 +1,21 @@
 ---
 title: Uso de eventos de qualificação de segmento
 description: Saiba onde configurar segmentos e como configurar um evento de qualificação de segmento em uma jornada.
-feature: Segments, Events
+feature: Segmentos, eventos
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
-role: Business Practitioner, Administrator
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+role: User, Admin
+exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 84%
+source-wordcount: '134'
+ht-degree: 86%
 
 ---
-
 
 # Uso de eventos de qualificação de segmento
 
