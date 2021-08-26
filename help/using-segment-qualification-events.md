@@ -1,7 +1,7 @@
 ---
 title: Uso de eventos de qualificação de segmento
 description: Saiba onde configurar segmentos e como configurar um evento de qualificação de segmento em uma jornada.
-feature: Segmentos, eventos
+feature: Segments, Events
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
@@ -10,16 +10,16 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 86%
+source-wordcount: '135'
+ht-degree: 61%
 
 ---
 
 # Uso de eventos de qualificação de segmento
 
-Um evento de qualificação de segmento permite que sua jornada escute as entradas e saídas dos perfis nos segmentos da Adobe Experience Platform, fazendo com que os indivíduos entrem ou avancem em uma jornada.
+Um evento de qualificação de segmento permite que sua jornada escute as entradas e saídas dos perfis nos segmentos do Adobe Experience Platform. Esse tipo de evento é usado para fazer indivíduos entrarem ou avançarem em uma jornada.
 
 Estes são alguns exemplos:
 

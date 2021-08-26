@@ -1,19 +1,19 @@
 ---
 title: Tutoriais do Journey Orchestration - Visão geral
-description: O Journey Orchestration permite criar casos de uso de orquestração em tempo real aproveitando dados contextuais armazenados em eventos ou fontes de dados
+description: O Journey Orchestration permite criar casos de uso de orquestração em tempo real usando dados contextuais armazenados em eventos ou fontes de dados
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 100%
+source-wordcount: '205'
+ht-degree: 62%
 
 ---
 
 # Visão geral
 
-O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à Adobe Experience Platform. Ele permite criar casos de uso de orquestração em tempo real aproveitando dados contextuais armazenados em eventos ou fontes de dados.
+O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à Adobe Experience Platform. Ele permite criar casos de uso de orquestração em tempo real usando dados contextuais armazenados em eventos ou fontes de dados.
 
 ## Novidades
 
@@ -49,7 +49,7 @@ O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à 
     </a>
     </div>
     <p>
-    <em>Saiba como criar uma nova jornada, iniciar um evento, usar orquestrações para controlar o fluxo e o tempo de uma jornada e usar ações para participar de pontos da jornada.</em>
+    <em>Saiba como criar uma jornada, iniciar um evento, usar orquestrações para controlar o fluxo e o tempo de uma jornada e usar ações para participar de pontos da jornada.</em>
     <p>
   </td>
   <td>
@@ -70,5 +70,5 @@ O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à 
 
 ## Recursos adicionais
 
-* [Centro de ajuda do Journey Orchestration](https://docs.adobe.com/content/help/pt-BR/journeys/using/journey-orchestration-home.html)
-* [Tutoriais da Adobe Experience Platform](https://docs.adobe.com/content/help/pt-BR/platform-learn/tutorials/overview.html)
+* [Centro de ajuda do Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=pt-BR)
+* [Tutoriais da Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
