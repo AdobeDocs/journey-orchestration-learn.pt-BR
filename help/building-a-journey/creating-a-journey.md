@@ -1,7 +1,7 @@
 ---
 title: Criar uma jornada com o Adobe Journey Orchestration
-description: '"Aprenda a criar uma nova jornada, iniciar com um evento, usar controles de orquestração para controlar o fluxo e o tempo de uma jornada e usar ações para se envolver em pontos da jornada."'
-feature: Jornadas
+description: “Aprenda a criar uma nova jornada, iniciar um evento, usar controles de orquestração para controlar o fluxo e o tempo de uma jornada e usar ações para se envolver em pontos da jornada.”
+feature: Journeys
 topics: Create a journey
 kt: 2789
 thumbnail: 29696.jpg
@@ -11,8 +11,8 @@ activity: use
 role: User, Admin
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
 source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
-workflow-type: tm+mt
-source-wordcount: '107'
+workflow-type: ht
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
