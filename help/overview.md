@@ -1,19 +1,19 @@
 ---
 title: Tutoriais do Journey Orchestration - Visão geral
-description: O Journey Orchestration permite criar casos de uso de orquestração em tempo real usando dados contextuais armazenados em eventos ou fontes de dados
+description: O Journey Orchestration permite criar casos de uso de orquestração em tempo real aproveitando dados contextuais armazenados em eventos ou fontes de dados
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
 source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '205'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
 # Visão geral
 
-O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à Adobe Experience Platform. Ele permite criar casos de uso de orquestração em tempo real usando dados contextuais armazenados em eventos ou fontes de dados.
+O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à Adobe Experience Platform. Ele permite criar casos de uso de orquestração em tempo real aproveitando dados contextuais armazenados em eventos ou fontes de dados.
 
 ## Novidades
 
@@ -28,15 +28,15 @@ O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à 
 <tr>
   <td>
     <a href="./understanding-journey-orchestration.md">
-      <img alt="Conheça o Journey Orchestration" src="./assets/journey-orchestration-example.png"/>
+      <img alt="Entenda o Journey Orchestration" src="./assets/journey-orchestration-example.png"/>
     </a>
     <div>
       <a href="./understanding-journey-orchestration.md">
-    <strong>Conheça o Journey Orchestration</strong>
+    <strong>Entenda o Journey Orchestration</strong>
     </a>
     </div>
     <p>
-    <em>Entenda o conceito do Journey Orchestration, os tipos de casos de uso que ele permite e os elementos-chave de como o ele funciona.</em>
+    <em>Entenda o conceito do Journey Orchestration, os tipos de casos de uso que ele permite e os elementos-chave do funcionamento desse serviço.</em>
     <p>
   </td>
   <td>
@@ -49,7 +49,7 @@ O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à 
     </a>
     </div>
     <p>
-    <em>Saiba como criar uma jornada, iniciar um evento, usar orquestrações para controlar o fluxo e o tempo de uma jornada e usar ações para participar de pontos da jornada.</em>
+    <em>Saiba como criar uma nova jornada, iniciar um evento, usar orquestrações para controlar o fluxo e o tempo de uma jornada e usar ações para se envolver em pontos da jornada.</em>
     <p>
   </td>
   <td>
@@ -71,4 +71,4 @@ O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à 
 ## Recursos adicionais
 
 * [Centro de ajuda do Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=pt-BR)
-* [Tutoriais da Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
+* [Tutoriais da Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=pt-BR)
