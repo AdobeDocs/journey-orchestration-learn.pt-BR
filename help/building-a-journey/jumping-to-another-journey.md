@@ -1,7 +1,7 @@
 ---
 title: Mudar para outra jornada
 description: 'Saiba como conduzir indivíduos de uma jornada para outra. '
-feature: Jornadas
+feature: Journeys
 topics: activity
 kt: 6695
 thumbnail: 330560.jpg
@@ -12,8 +12,8 @@ team: PM
 role: User, Admin
 exl-id: 185c5c83-5444-4592-b113-732ee561f55a
 source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
-workflow-type: tm+mt
-source-wordcount: '80'
+workflow-type: ht
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
