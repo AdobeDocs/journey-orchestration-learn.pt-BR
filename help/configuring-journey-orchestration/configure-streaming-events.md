@@ -1,7 +1,7 @@
 ---
 title: Configurar eventos de transmissão para Adobe Journey Orchestration
 description: '"Aprenda a configurar esquemas XDM e conjuntos de dados para eventos do Journey Orchestration, definir um evento no Journey Orchestration e configurar sistemas de origem para transmitir eventos"'
-feature: Fontes de dados, eventos, esquemas
+feature: Data Sources, Events, Schemas
 topics: Events
 kt: 3731
 thumbnail: 29338.jpg
@@ -12,7 +12,7 @@ role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
 source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '251'
 ht-degree: 35%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 35%
 * As ações diretas de um indivíduo (por exemplo, ele comprou um produto, visitou uma loja ou abandonou um carrinho de compras online) ou
 * Algo que aconteceu e que está conectado ao indivíduo (por exemplo, como atingiu 10.000 pontos de fidelidade)
 
-[!UICONTROL Journey Orchestration] são  [!UICONTROL XDM experience events] enviados para a Adobe Experience Platform via  [!UICONTROL streaming ingestion].
+[!UICONTROL Journey Orchestration] eventos são [!UICONTROL XDM experience events] que são enviadas para a Adobe Experience Platform via [!UICONTROL streaming ingestion].
 
 >[!NOTE]
 >
@@ -34,8 +34,7 @@ ht-degree: 35%
 >* [Como compor esquemas XDM para eventos de experiência](https://docs.adobe.com/content/help/pt-BR/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
 >* [Assimilação de dados de fluxo](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
->
-Para entender os exemplos usados no vídeo, você também deve se familiarizar com os seguintes Serviços da Adobe Experience Platform:
+>Para entender os exemplos usados no vídeo, você também deve se familiarizar com os seguintes Serviços da Adobe Experience Platform:
 >
 >* [Adobe Experience Platform Mobile SDK - Iniciar](https://docs.adobe.com/content/help/pt-BR/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 >* [Serviço de localização da Adobe Experience Platform](https://docs.adobe.com/content/help/pt-BR/places/using/home.html)
@@ -45,8 +44,8 @@ Para entender os exemplos usados no vídeo, você também deve se familiarizar c
 
 O vídeo a seguir explica como:
 
-* Configurar esquemas XDM e conjuntos de dados para eventos [!UICONTROL Journey Orchestration]
-* Definir um evento em [!UICONTROL Journey Orchestration]
+* Configurar esquemas XDM e conjuntos de dados para [!UICONTROL Journey Orchestration] events
+* Defina um evento em [!UICONTROL Journey Orchestration]
 * Configurar sistemas de origem para transmitir eventos
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12)

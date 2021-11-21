@@ -1,7 +1,7 @@
 ---
 title: Configurar fontes de dados para o Adobe Journey Orchestration
 description: '"Saiba como configurar a Fonte de Dados do Experience Platform, configurar uma fonte de dados externa e localizar e usar dados em uma jornada."'
-feature: Fontes de dados
+feature: Data Sources
 topics: Data Sources
 kt: 2774
 thumbnail: 29406.jpg
@@ -12,8 +12,8 @@ role: Admin
 exl-id: 06fbf5ae-aae1-4a62-af84-18303c9674c9
 source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 16%
+source-wordcount: '141'
+ht-degree: 14%
 
 ---
 
