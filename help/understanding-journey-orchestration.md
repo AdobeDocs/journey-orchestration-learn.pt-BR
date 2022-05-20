@@ -1,6 +1,6 @@
 ---
 title: Entenda o Journey Orchestration
-description: “Entenda o conceito do Journey Orchestration, os tipos de casos de uso que ele permite e os elementos-chave do funcionamento desse serviço.”
+description: Entenda o conceito do Journey Orchestration, os tipos de casos de uso que ele permite e os elementos-chave do funcionamento desse serviço.
 feature: Overview
 topics: Introduction
 kt: 2773
@@ -9,19 +9,19 @@ audience: user, developer
 doc-type: video
 activity: understand
 role: User, Admin
-source-git-commit: f46e7dd5cbd60a16b5ab8a58a5a548735a3708fc
+exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
+source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 100%
 
 ---
 
-
 # Noções básicas do [!UICONTROL Journey Orchestration]
 
-## Introdução ao [!UICONTROL Journey Orchestration]
-
 O [!UICONTROL Journey Orchestration] permite criar casos de uso de orquestração em tempo real, aproveitando dados contextuais armazenados em eventos ou fontes de dados.
+
+## Introdução ao [!UICONTROL Journey Orchestration]
 
 O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à Adobe Experience Platform. Ele fornece um ambiente inteligente e aberto para ativar todos os dados relevantes por meio de envolvimento escalável e baseado em eventos em qualquer canal que sua empresa exija, seja marketing, operações ou serviços. O [!UICONTROL Journey Orchestration] pode aproveitar todos os dados da Adobe Experience Platform e de qualquer sistema de delivery externo para criar e fornecer experiências atraentes.
 
@@ -58,4 +58,3 @@ As principais etapas de preparação para as jornadas de construção são:
 * [Como obter ajuda com o Journey Orchestration](/help/understanding-journey-orchestration.md)
 * [Adobe Experience Platform Mobile SDK - Iniciar](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=pt-BR)
 * [Serviço de localização da Adobe Experience Platform](https://experienceleague.adobe.com/docs/places/using/home.html?lang=pt-BR)
-
