@@ -11,9 +11,9 @@ activity: understand
 role: User, Admin
 exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
 source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '323'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ As principais etapas de preparação para as jornadas de construção são:
 
 1. [Configurar eventos de transmissão](/help/configuring-journey-orchestration/configure-streaming-events.md) - essa configuração é obrigatória, pois o [!UICONTROL Journey Orchestration] é projetado para ouvir eventos.
 1. [Configurar fontes de dados](/help/configuring-journey-orchestration/configure-data-sources.md) - essa configuração não é necessária se suas jornadas utilizarem somente os dados locais provenientes de uma carga do evento.
-1. [Configurar ações personalizadas](/help/configuring-journey-orchestration/configure-actions.md): Obrigatório se você deseja usar um serviço de qualquer provedor de terceiros que possa ser chamado por meio de um [!DNL REST API] com uma carga de formato JSON
+1. [Configurar ações personalizadas](/help/configuring-journey-orchestration/configure-actions.md): é obrigatório caso você queira usar um serviço de qualquer provedor de terceiros que possa ser chamado por meio de uma [!DNL REST API] com uma carga de formato JSON
 
 >[!NOTE]
 >
@@ -56,5 +56,5 @@ As principais etapas de preparação para as jornadas de construção são:
 * [Centro de ajuda do Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=pt-BR)
 * [Tutoriais da Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=pt-BR)
 * [Como obter ajuda com o Journey Orchestration](/help/understanding-journey-orchestration.md)
-* [Adobe Experience Platform Mobile SDK - Iniciar](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
+* [Adobe Experience Platform Mobile SDK - Iniciar](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=pt-BR)
 * [Serviço de localização da Adobe Experience Platform](https://experienceleague.adobe.com/docs/places/using/home.html?lang=pt-BR)
