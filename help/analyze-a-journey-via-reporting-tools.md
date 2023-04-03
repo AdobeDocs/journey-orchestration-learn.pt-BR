@@ -10,7 +10,7 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: f6f13fba-d815-424f-86e5-918577609882
-source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
+source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
 workflow-type: ht
 source-wordcount: '83'
 ht-degree: 100%
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Saiba como acessar os relatórios da sua jornada, personalizar intervalos de datas para seu relatório e salvar um modelo de relatório para futura utilização.
 
->[!VIDEO](https://video.tv.adobe.com/v/29321?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29321?quality=12&learn=on)
 
 Para obter mais informações, consulte [Sobre relatórios do Journey Orchestration](https://experienceleague.adobe.com/docs/journeys/using/journey-reports/about-journey-reports.html?lang=pt-BR).
