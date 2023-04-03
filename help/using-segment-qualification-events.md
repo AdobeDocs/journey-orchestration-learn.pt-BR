@@ -10,7 +10,7 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
-source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
+source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 48%
@@ -28,6 +28,6 @@ Estes são alguns exemplos:
 
 Este vídeo fornece uma breve introdução sobre onde configurar segmentos e como configurar um evento de qualificação de segmento em uma jornada.
 
->[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12&learn=on)
 
 Para obter mais informações, consulte [Eventos de qualificação de segmento](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html?lang=en).
