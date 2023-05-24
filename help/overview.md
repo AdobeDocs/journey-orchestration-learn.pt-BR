@@ -11,7 +11,7 @@ ht-degree: 98%
 
 ---
 
-# Tutoriais do Journey Orchestration
+# tutoriais do Journey Orchestration
 
 O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à Adobe Experience Platform. Ele permite criar casos de uso de orquestração em tempo real aproveitando dados contextuais armazenados em eventos ou fontes de dados.
 

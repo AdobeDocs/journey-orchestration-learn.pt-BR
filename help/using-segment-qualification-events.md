@@ -19,7 +19,7 @@ ht-degree: 48%
 
 # Uso de eventos de qualificação de segmento
 
-Um evento de qualificação de segmento permite que sua jornada escute as entradas e saídas dos perfis nos segmentos do Adobe Experience Platform. Esse tipo de evento é usado para fazer indivíduos entrarem ou avançarem em uma jornada.
+Um evento de qualificação de segmento permite que sua jornada acompanhe as entradas e saídas dos perfis nos segmentos do Adobe Experience Platform. Esse tipo de evento é usado para fazer com que os indivíduos entrem ou avancem em uma jornada.
 
 Estes são alguns exemplos:
 

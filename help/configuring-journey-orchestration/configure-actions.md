@@ -1,5 +1,5 @@
 ---
-title: Configurar ações para Adobe Journey Orchestration
+title: Configurar ações para o Journey Orchestration Adobe
 description: Saiba como configurar uma ação para o Journey Orchestration e como usá-la em uma jornada.
 feature: Actions
 topics: Custom Actions
@@ -23,4 +23,4 @@ Saiba como configurar uma ação para o Journey Orchestration e como usá-la em 
 
 >[!VIDEO](https://video.tv.adobe.com/v/29638?quality=12&learn=on)
 
-Para obter mais informações, consulte o [Ações](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action.html?lang=en) seção da documentação do produto
+Para obter mais informações, consulte [Ações](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action.html?lang=en) seção da documentação do produto

@@ -1,6 +1,6 @@
 ---
 title: Validar e publicar uma Jornada
-description: Saiba como testar sua jornada antes da publicação, usando perfis de teste.
+description: Saiba como testar sua jornada antes de sua publicação, usando perfis de teste.
 feature: Journeys
 topics: Test and publish a journey
 kt: 2778
@@ -19,9 +19,9 @@ ht-degree: 7%
 
 # Validar e publicar uma jornada
 
-Saiba como testar sua jornada antes da publicação, usando perfis de teste.
+Saiba como testar sua jornada antes de sua publicação, usando perfis de teste.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12&learn=on)
 
 Consulte a documentação do produto para obter mais informações sobre [Teste da jornada](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html)
-e [Publicar a jornada](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/publishing-the-journey.html)
+e [Publicação da jornada](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/publishing-the-journey.html)
