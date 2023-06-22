@@ -3,17 +3,17 @@ title: Configurar eventos de transmissão para o Journey Orchestration Adobe
 description: Aprenda a configurar esquemas XDM e conjuntos de dados para eventos do Journey Orchestration, definir um evento no Journey Orchestration e configurar sistemas de origem para transmitir eventos.
 feature: Data Sources, Events, Schemas
 topics: Events
-kt: 3731
+jira: KT-3731
 thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
 role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
-source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
+source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 29%
+ht-degree: 30%
 
 ---
 
@@ -38,7 +38,6 @@ ht-degree: 29%
 >
 >* [SDK móvel da Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=pt-BR)
 >* [Serviço de localização da Adobe Experience Platform](https://experienceleague.adobe.com/docs/places/using/home.html?lang=pt-BR)
-
 
 ## Como configurar [!UICONTROL streaming events]
 
