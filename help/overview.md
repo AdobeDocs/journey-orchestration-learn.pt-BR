@@ -2,9 +2,10 @@
 title: Tutoriais do Journey Orchestration - Visão geral
 description: O Journey Orchestration permite criar casos de uso de orquestração em tempo real aproveitando dados contextuais armazenados em eventos ou fontes de dados
 products: Journey orchestration
+feature: Overview
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 73eee54dae0f6a765e0dcd6bcab35cf67f891294
+source-git-commit: b32b245c9738b860d8f6417e7e37d079d75b07f9
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 98%
@@ -21,7 +22,7 @@ O [!UICONTROL Journey Orchestration] é um serviço de aplicativos integrado à 
 
 * **[Atualizar ação do perfil](/help/building-a-journey/update-profile-action.md)**
 * **[Mudar para outra jornada](/help/building-a-journey/jumping-to-another-journey.md)**
-   *Saiba como conduzir indivíduos de uma jornada para outra.*
+  *Saiba como conduzir indivíduos de uma jornada para outra.*
 
 </div>
 
