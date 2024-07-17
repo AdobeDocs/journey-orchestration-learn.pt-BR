@@ -12,19 +12,19 @@ role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
 source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 30%
+source-wordcount: '201'
+ht-degree: 21%
 
 ---
 
 # Configurar eventos de transmissão
 
-[!UICONTROL Journey Orchestration] O escuta eventos e orquestra as melhores ações futuras na jornada do cliente com base nesses eventos. Um evento pode estar relacionado a:
+[!UICONTROL Journey Orchestration] ouve eventos e organiza as melhores ações seguintes na jornada do cliente com base nesses eventos. Um evento pode estar relacionado a:
 
 * As ações diretas de um indivíduo (por exemplo, ele comprou um produto, visitou uma loja ou abandonou um carrinho de compras online) ou
 * Algo que aconteceu e que está conectado ao indivíduo (por exemplo, eles atingiram 10.000 pontos de fidelidade)
 
-[!UICONTROL Journey Orchestration] os eventos são [!UICONTROL XDM experience events] que são enviados para a Adobe Experience Platform via [!UICONTROL streaming ingestion].
+[!UICONTROL Journey Orchestration] eventos são [!UICONTROL XDM experience events] enviados para a Adobe Experience Platform via [!UICONTROL streaming ingestion].
 
 >[!NOTE]
 >
@@ -39,14 +39,14 @@ ht-degree: 30%
 >* [SDK móvel da Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=pt-BR)
 >* [Serviço de localização da Adobe Experience Platform](https://experienceleague.adobe.com/docs/places/using/home.html?lang=pt-BR)
 
-## Como configurar [!UICONTROL streaming events]
+## Como configurar o [!UICONTROL streaming events]
 
 O vídeo a seguir explica como:
 
-* Configurar esquemas XDM e conjuntos de dados para [!UICONTROL Journey Orchestration] events
+* Configurar esquemas XDM e conjuntos de dados para [!UICONTROL Journey Orchestration] eventos
 * Definir um evento em [!UICONTROL Journey Orchestration]
 * Configurar sistemas de origem para transmitir eventos
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?learn=on){transcript=true}
 
-Para obter mais informações, consulte [Sobre eventos](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en) seção da documentação do produto.
+Para obter mais informações, consulte a seção [Sobre eventos](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en) da documentação do produto.
