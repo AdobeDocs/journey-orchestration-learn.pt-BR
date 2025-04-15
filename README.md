@@ -1,12 +1,10 @@
 ---
-source-git-commit: 33b77dc26229120fce22909b7085b235e2ff59cc
+source-git-commit: 5f7dec705f73509e0dd4c8eec2c34398ed1698b4
 workflow-type: tm+mt
-translation-type: tm+mt
-source-wordcount: '10'
+source-wordcount: '14'
 ht-degree: 0%
 
 ---
 # journey-orchestration-learn.en
 
-Repo de marketing técnico para vídeos e tutoriais de Journey Orchestration
-
+Este repositório está arquivado. Conteúdo desatualizado. Consulte os documentos do produto jornada-orchestion.en.
